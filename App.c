@@ -20,9 +20,9 @@
 /* Description: Task executes once to initialize all the Modules */
 void Init_Task(void)
 {
-        /* Initialize Port Driver */
+    /* Initialize Port Driver */
 
-      Port_Init(&Port_Configuration);
+    Port_Init(&Port_Configuration);
 
 
     /* Initialize Dio Driver */

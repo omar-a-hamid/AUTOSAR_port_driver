@@ -6,7 +6,7 @@
 *
 * Description: Prebuild configure source file for TM4C123GH6PM Microcontroller - Port Driver.
 *
-* Author: Fady Ibrahim
+* Author: Omar Ahmed
 ******************************************************************************/
 
 #include "Port.h"
